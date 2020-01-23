@@ -141,3 +141,156 @@ body {
     left: 260px;
     top: 692px;
 }
+
+.h1 {
+position: absolute;
+width: 29px;
+height: 30px;
+left: 854px;
+top: 145px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+/* identical to box height */
+text-align: right;
+
+/* Dark 25% */
+color: rgba(31, 32, 65, 0.25);
+}
+
+.h1_description {
+position: absolute;
+width: 336px;
+height: 60px;
+left: 913px;
+top: 145px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+
+/* Dark 100% */
+color: #1F2041;
+}
+
+.h2 {
+position: absolute;
+width: 27px;
+height: 24px;
+left: 856px;
+top: 255px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 23px;
+
+/* identical to box height */
+text-align: right;
+
+/* Dark 25% */
+color: rgba(31, 32, 65, 0.25);
+}
+
+.h2_description {
+position: absolute;
+width: 282px;
+height: 48px;
+left: 913px;
+top: 255px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 24px;
+
+/* Dark 100% */
+color: #1F2041;
+}
+
+.h3 {
+position: absolute;
+width: 17px;
+height: 15px;
+left: 866px;
+top: 353px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+
+/* identical to box height */
+text-align: right;
+text-transform: uppercase;
+
+/* Dark 25% */
+color: rgba(31, 32, 65, 0.25);
+}
+
+.h3_description {
+position: absolute;
+width: 186px;
+height: 15px;
+left: 913px;
+top: 353px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+
+/* identical to box height */
+text-transform: uppercase;
+
+color: #1F2041;
+}
+
+.body_block {
+position: absolute;
+width: 37px;
+height: 24px;
+left: 846px;
+top: 418px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+
+/* identical to box height, or 171% */
+text-align: right;
+
+/* Dark 25% */
+color: rgba(31, 32, 65, 0.25);
+}
+
+.body_block_description {
+position: absolute;
+width: 301px;
+height: 48px;
+left: 913px;
+top: 418px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+
+/* or 171% */
+
+/* Dark 75% */
+color: rgba(31, 32, 65, 0.75);
+}
