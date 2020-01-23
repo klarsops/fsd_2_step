@@ -1,0 +1,143 @@
+body {
+    width: 1440px;
+    height: 900px;
+    background-color: #ffffff;
+}
+
+
+.rectangle {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+}  
+
+.text_color {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    /* Dark 100% */
+    color: #1F2041;
+}
+
+.rectangle_2 {
+    left: 150px;
+    top: 145px;
+
+    /* Dark 100% */
+    background: #1F2041;
+    border-radius: 6px;
+}
+
+.text_rectangle_2 {
+    position: absolute;
+    width: 159px;
+    height: 57px;
+    left: 260px;
+    top: 152px;
+
+}
+
+.rectangle_2_1 {
+    left: 150px;
+    top: 235px;
+
+    /* Dark 75% */
+    background: rgba(31, 32, 65, 0.75);
+    border-radius: 6px;
+}
+
+.text_rectangle_2_1 {
+    position: absolute;
+    width: 150px;
+    height: 57px;
+    left: 260px;
+    top: 242px;
+}
+
+.rectangle_2_2 {
+    left: 149.74px;
+    top: 324.56px;
+    
+    /* Dark 50% */
+    background: rgba(31, 32, 65, 0.5);
+    border-radius: 6px;
+}
+
+.text_rectangle_2_2 {
+    position: absolute;
+    width: 151px;
+    height: 57px;
+    left: 260px;
+    top: 332px;
+}
+
+.rectangle_2_3 {
+    left: 150px;
+    top: 415px;
+
+    /* Dark 25% */
+    background: rgba(31, 32, 65, 0.25);
+    border-radius: 6px;
+}
+
+.text_rectangle_2_3 {
+    position: absolute;
+    width: 149px;
+    height: 57px;
+    left: 260px;
+    top: 422px;
+}
+
+.rectangle_2_4 {
+    left: 150px;
+    top: 505px;
+
+    background: rgba(31, 32, 65, 0.05);
+    border-radius: 6px;
+}
+
+.text_rectangle_2_4 {
+    position: absolute;
+    width: 139px;
+    height: 58px;
+    left: 260px;
+    top: 511px;
+}
+
+.rectangle_2_5 {
+    left: 150px;
+    top: 595px;
+
+    /* Primary Color */
+    background: #BC9CFF;
+    border-radius: 6px;
+}
+
+.text_rectangle_2_5 {
+    position: absolute;
+    width: 82px;
+    height: 58px;
+    left: 260px;
+    top: 601px;
+}
+
+.rectangle_2_6 {
+    left: 150px;
+    top: 685px;
+
+    /* Secondary Color */
+    background: #6FCF97;
+    border-radius: 6px;
+}
+
+.text_rectangle_2_6 {
+    position: absolute;
+    width: 77px;
+    height: 57px;
+    left: 260px;
+    top: 692px;
+}
